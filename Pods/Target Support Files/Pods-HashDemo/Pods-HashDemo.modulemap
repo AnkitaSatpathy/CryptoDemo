@@ -1,0 +1,6 @@
+framework module Pods_HashDemo {
+  umbrella header "Pods-HashDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
